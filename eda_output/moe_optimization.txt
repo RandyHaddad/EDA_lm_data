@@ -1,0 +1,37 @@
+MOE TRAINING OPTIMIZATION RECOMMENDATIONS
+==================================================
+
+Selection Strategy Comparison (1000 samples):
+
+DIVERSITY Strategy:
+  Average tokens: 1003.7 ± 261.2
+  Format diversity: 12 types
+  Audience diversity: 7 types
+  Cluster coverage: 19/19 clusters
+  Total tokens: 1,003,746
+  Top formats: {'blogpost': 374, 'textbook_academic_tone': 292, 'educational_piece': 60, 'story_children': 44, 'story_reddit': 43}
+
+QUALITY Strategy:
+  Average tokens: 825.6 ± 152.3
+  Format diversity: 8 types
+  Audience diversity: 3 types
+  Cluster coverage: 19/19 clusters
+  Total tokens: 825,629
+  Top formats: {'blogpost': 374, 'textbook_academic_tone': 292, 'educational_piece': 60, 'story_children': 44, 'story_reddit': 43}
+
+BALANCED Strategy:
+  Average tokens: 982.9 ± 243.9
+  Format diversity: 11 types
+  Audience diversity: 7 types
+  Cluster coverage: 19/19 clusters
+  Total tokens: 982,854
+  Top formats: {'blogpost': 374, 'textbook_academic_tone': 292, 'educational_piece': 60, 'story_children': 44, 'story_reddit': 43}
+
+RANDOM Strategy:
+  Average tokens: 809.7 ± 302.7
+  Format diversity: 12 types
+  Audience diversity: 6 types
+  Cluster coverage: 19/19 clusters
+  Total tokens: 809,732
+  Top formats: {'blogpost': 374, 'textbook_academic_tone': 292, 'educational_piece': 60, 'story_children': 44, 'story_reddit': 43}
+

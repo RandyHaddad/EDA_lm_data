@@ -1,0 +1,65 @@
+COSMOPEDIA-100K BASIC STATISTICS
+==================================================
+
+Dataset Overview:
+Total samples: 100000
+Memory usage: 844.91 MB
+
+Token Length Statistics:
+count    100000.000000
+mean        790.165410
+std         276.982824
+min          46.000000
+25%         626.000000
+50%         750.000000
+75%         916.000000
+max        2503.000000
+Name: text_token_length, dtype: float64
+
+Detailed Percentiles:
+  1th percentile: 200 tokens
+  5th percentile: 413 tokens
+  10th percentile: 498 tokens
+  25th percentile: 626 tokens
+  50th percentile: 750 tokens
+  75th percentile: 916 tokens
+  90th percentile: 1128 tokens
+  95th percentile: 1293 tokens
+  99th percentile: 1697 tokens
+
+Format Distribution:
+  blogpost: 37927 (37.9%)
+  textbook_academic_tone: 28261 (28.3%)
+  educational_piece: 6203 (6.2%)
+  story_reddit: 4235 (4.2%)
+  story_children: 4160 (4.2%)
+  story_life_lessons: 4056 (4.1%)
+  wikihow: 3979 (4.0%)
+  textbook_narrative_tone: 3606 (3.6%)
+  textbook_narrative: 3364 (3.4%)
+  story_morality: 1915 (1.9%)
+  story_forums: 1879 (1.9%)
+  e-learning_module: 208 (0.2%)
+  textbook_academic: 108 (0.1%)
+  scientific_article: 99 (0.1%)
+
+Audience Distribution:
+  general: 57597 (57.6%)
+  college_students: 32161 (32.2%)
+  young_children: 5081 (5.1%)
+  grade_school_students: 3153 (3.2%)
+  researchers: 972 (1.0%)
+  high_school_studnets: 823 (0.8%)
+  college_studnets: 108 (0.1%)
+  middle_school_students: 105 (0.1%)
+
+Seed Data Distribution:
+  web_samples_v1: 39913 (39.9%)
+  web_samples_v2: 33253 (33.3%)
+  ultrachat: 9242 (9.2%)
+  openhermes2.5: 7003 (7.0%)
+  auto_math_text: 6203 (6.2%)
+  stanford: 3364 (3.4%)
+  wikihow_original: 542 (0.5%)
+  openstax: 415 (0.4%)
+  khanacademy: 65 (0.1%)

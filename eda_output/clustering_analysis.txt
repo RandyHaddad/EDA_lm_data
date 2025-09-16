@@ -1,0 +1,178 @@
+COSMOPEDIA-100K CLUSTERING ANALYSIS
+==================================================
+
+Sample size: 2000
+Optimal clusters: 19
+Silhouette score: 0.041
+
+Cluster 0:
+  Size: 56 documents
+  Top terms: number, numbers, imagine, let, called, like, function, just, special, want
+  Main format: educational_piece
+  Main audience: grade_school_students
+  Avg tokens: 583.4
+  Format diversity: 7
+  Audience diversity: 5
+
+Cluster 1:
+  Size: 89 documents
+  Top terms: arts, art, artists, characters, performing, visual, stories, character, narratives, cultural
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 726.4
+  Format diversity: 6
+  Audience diversity: 5
+
+Cluster 2:
+  Size: 32 documents
+  Top terms: pharmaceutical, manufacturing, equipment, production, maintenance, technology, quality, safety, materials, applications
+  Main format: textbook_academic_tone
+  Main audience: college_students
+  Avg tokens: 818.3
+  Format diversity: 2
+  Audience diversity: 2
+
+Cluster 3:
+  Size: 137 documents
+  Top terms: marketing, business, marketing business, businesses, customer, strategies, business strategies, content, product, customers
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 821.5
+  Format diversity: 3
+  Audience diversity: 3
+
+Cluster 4:
+  Size: 29 documents
+  Top terms: jewelry, design, manufacturing, materials, piece, pieces, color, techniques, material, quality
+  Main format: textbook_academic_tone
+  Main audience: college_students
+  Avg tokens: 873.4
+  Format diversity: 2
+  Audience diversity: 2
+
+Cluster 5:
+  Size: 180 documents
+  Top terms: let, home, food, ingredients, travel, natural, just, perfect, ll, like
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 749.6
+  Format diversity: 6
+  Audience diversity: 6
+
+Cluster 6:
+  Size: 91 documents
+  Top terms: football, team, players, game, player, step, teams, games, sports, american
+  Main format: textbook_narrative_tone
+  Main audience: general
+  Avg tokens: 886.6
+  Format diversity: 8
+  Audience diversity: 3
+
+Cluster 7:
+  Size: 119 documents
+  Top terms: energy, materials, design, light, systems, performance, credit, components, power, water
+  Main format: textbook_academic_tone
+  Main audience: college_students
+  Avg tokens: 952.4
+  Format diversity: 9
+  Audience diversity: 5
+
+Cluster 8:
+  Size: 157 documents
+  Top terms: health, healthcare, care, patients, mental, medical, patient, mental health, treatment, skin
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 860.3
+  Format diversity: 8
+  Audience diversity: 5
+
+Cluster 9:
+  Size: 97 documents
+  Top terms: international, political, politics, relations, rights, state, government, states, public, law
+  Main format: textbook_academic_tone
+  Main audience: general
+  Avg tokens: 850.7
+  Format diversity: 9
+  Audience diversity: 6
+
+Cluster 10:
+  Size: 291 documents
+  Top terms: education, students, learning, financial, cultural, educational, legal, community, communication, unit
+  Main format: textbook_academic_tone
+  Main audience: college_students
+  Avg tokens: 859.2
+  Format diversity: 7
+  Audience diversity: 6
+
+Cluster 11:
+  Size: 25 documents
+  Top terms: sarah, change, feeling, felt, began, day, ve, diversity, health, work
+  Main format: story_morality
+  Main audience: general
+  Avg tokens: 699.4
+  Format diversity: 5
+  Audience diversity: 1
+
+Cluster 12:
+  Size: 76 documents
+  Top terms: frac, function, given, let, functions, problem, point, values, order, sum
+  Main format: educational_piece
+  Main audience: college_students
+  Avg tokens: 910.6
+  Format diversity: 6
+  Audience diversity: 6
+
+Cluster 13:
+  Size: 158 documents
+  Top terms: data, users, user, security, privacy, software, computer, developers, code, information
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 857.2
+  Format diversity: 7
+  Audience diversity: 4
+
+Cluster 14:
+  Size: 66 documents
+  Top terms: music, musical, artists, sound, like, contemporary, new, performance, audiences, live
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 807.8
+  Format diversity: 8
+  Audience diversity: 3
+
+Cluster 15:
+  Size: 26 documents
+  Top terms: god, love, lives, life, living, job, relationship, central, human, significance
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 770.9
+  Format diversity: 4
+  Audience diversity: 2
+
+Cluster 16:
+  Size: 57 documents
+  Top terms: personal development, personal, empowerment, development, self, growth, resilience, life, lives, relationships
+  Main format: blogpost
+  Main audience: general
+  Avg tokens: 777.3
+  Format diversity: 2
+  Audience diversity: 2
+
+Cluster 17:
+  Size: 250 documents
+  Top terms: day, friends, decided, did, mr, just, things, unexpected, little, time
+  Main format: story_children
+  Main audience: general
+  Avg tokens: 604.5
+  Format diversity: 9
+  Audience diversity: 3
+
+Cluster 18:
+  Size: 64 documents
+  Top terms: step, key, key tip, tip, dental, tips, guidelines, steps, following, avoid
+  Main format: wikihow
+  Main audience: general
+  Avg tokens: 931.8
+  Format diversity: 3
+  Audience diversity: 2
+
